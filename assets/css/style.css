@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.topheade{
+    height: 20px;
+    background-color: #F4F4F4;
+    width: 100%;
+    padding: 5px;
+    text-align: center
+}
+.date{
+    width: 75%;
+    display: inline;
+}
+.icons{
+    width: 25%;
+    float: right;
+}
+div.icons a i{
+    height: 20px;
+    width: 20px;
+    background-color: #1486C2;
+    border-radius: 50%;
+    color: white;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.date a i{
+    font-size:20px;
+}
+.header{
+    height: 80px;
+    background-color: #1486C2;
+
+}
+.brand{
+    width: 75%;
+    float: left;
+}
+div.brand a img{
+    width: 100%;
+}
+.searchbtn{
+    width: 25%;
+    float: right;
+}
+.searchbtn input[type=text] {
+  border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
